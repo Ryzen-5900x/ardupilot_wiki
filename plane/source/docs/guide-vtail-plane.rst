@@ -24,7 +24,7 @@ outputs, and reversals. Inputs are covered on the :ref:`RC input setup page <rc-
 After the RC inputs are configured, configure the outputs.
 
 .. warning:: Make sure the :ref:`AHRS_ORIENTATION<AHRS_ORIENTATION>` is set correctly for the autopilot. If it is incorrect, 
-             this setup will fail, and the plane may crash upon entry into any stabilize mode.
+             this setup will fail, and the plane may crash upon entry into any stabilized mode.
              
 Servo cables can be connected to any output of the autopilot,
 but using the default channels 1-4 listed below is recommended. 
